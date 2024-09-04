@@ -1,6 +1,11 @@
 ## Hi there 👋, I am Oluwatimilehin
 <h3 align="center">A passionate Fullstack developer with a unique passion for creating out of the box solutions with the latest technologies.</h3>
 
+- 🔭 I’m currently working with **React, JavaScript(ES6+), NextJS, TypeScript, ExpressJS**
+- 👯 I’m looking to collaborate on **Frontend and Fullstack projects**
+- 📫 How to reach me: rotimioluwatimilehin19@gmail.com
+- ⚡ Fun fact: I love coding and football #COYG🔴⚪️
+
 <!--
 **TimiDev19/TIMIDEV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
